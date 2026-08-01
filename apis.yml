@@ -1,7 +1,16 @@
 aid: sarwa
 name: Sarwa
-description: Sarwa is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Sarwa is a UAE-based fintech platform and mobile app that lets everyday
+  investors trade U.S. stocks and ETFs, invest passively through managed
+  portfolios, and save in high-yield accounts, all in one place. The company
+  is regulated by the Financial Services Regulatory Authority (FSRA) of the
+  Abu Dhabi Global Market (ADGM) and operates as Sarwa Digital Wealth (Capital)
+  Limited. Sarwa is a portfolio company of 500 Global and offers consumer
+  products (Sarwa Trade, Sarwa Invest, Sarwa Save) through its web and mobile
+  apps; it does not currently publish a public developer API. This profile
+  captures the company's public identity, security posture, and web properties
+  for the API Evangelist network.
 url: https://raw.githubusercontent.com/api-evangelist/sarwa/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,11 +18,31 @@ x-backed-by:
 - 500-global
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
+image: https://cdn.sarwa.co/static/rebrand/meta/sarwa-web.png
 tags:
 - Company
+- FinTech
+- Investing
+- Wealth Management
+- Robo-Advisor
+- Stock Trading
+- Savings
+- UAE
+- ADGM
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +52,30 @@ maintainers:
 common:
 - type: Website
   url: https://sarwa.co
+- type: Blog
+  url: https://sarwa.co/blog
+- type: Pricing
+  url: https://sarwa.co/en/pricing
+- type: SignUp
+  url: https://sarwa.co/register
+- type: Login
+  url: https://sarwa.co/login
+- type: Support
+  url: https://help.sarwa.co/hc/en-us
+- type: PrivacyPolicy
+  url: https://sarwa.co/privacy-policy
+- type: DomainSecurity
+  url: security/sarwa-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/sarwa-vulnerability-disclosure.yml
+- type: Security
+  url: https://sarwa.co/.well-known/security.txt
+- type: SecurityTxt
+  url: well-known/sarwa-security.txt
+- type: WellKnown
+  url: well-known/sarwa-well-known.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 4
+  pass: local-v1

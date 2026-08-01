@@ -1,0 +1,4 @@
+Contact: mailto:security@sarwa.co
+
+# For anonymous bug submissions, suggestions, comments, or any other queries related to security, contact us via email at security@sarwa.co.
+# If you are interested in participating in our bug bounty programme and potentially getting rewarded for vulnerability submissions, we require that submissions are done via HackerOne. Reach out to security@sarwa.co with your HackerOne username, and we'll send you an invite to our programme.
