@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Sarwa is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Sarwa is a UAE-based fintech platform and mobile app that lets everyday investors trade U.S. stocks and ETFs, invest passively through managed portfolios, and save in high-yield accounts, all in one place. The company is regulated by the Financial Services Regulatory Authority (FSRA) of the Abu Dhabi Global Market (ADGM) and operates as Sarwa Digital Wealth (Capital) Limited. Sarwa is a portfolio company of 500 Global and offers consumer products (Sarwa Trade, Sarwa Invest, Sarwa Save) through its web and mobile apps; it does not currently publish a public developer API. This profile captures the company's public identity, security posture, and web properties for the API Evangelist network.
 
-Backed by: 500-global — https://sarwa.co
+**Areas:** Company · Fintech · Investing · Wealth Management · Robo-Advisor · Stock Trading · Savings · United Arab Emirates · ADGM
+
+## Sarwa on APIs.io
+
+Everything profiled for Sarwa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sarwa/](https://apis.io/providers/sarwa/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Sarwa Domain Security](https://apis.io/security/sarwa/sarwa-domain-security/)
+- [Sarwa Vulnerability Disclosure](https://apis.io/security/sarwa/sarwa-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sarwa.co)
+- [Pricing](https://sarwa.co/en/pricing)
+- [Sign up](https://sarwa.co/register)
+- [Support](https://help.sarwa.co/hc/en-us)
+- [Blog](https://sarwa.co/blog)
+- [Security](https://sarwa.co/.well-known/security.txt)
+- [Privacy policy](https://sarwa.co/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 12.3** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 10.5 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 14.8** — Securities & Market Data
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sarwa/](https://apis.io/providers/sarwa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Sarwa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sarwa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
